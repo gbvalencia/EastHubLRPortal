@@ -259,7 +259,7 @@ footer {
 
 .history {
   text-align: justify;
-  background-image: url('/images/history1.png');
+  background-image: url('../images/history1.png');
 }
 
 .LRC {
@@ -275,5 +275,5 @@ footer {
 }
 
 .contact{
-  background-image: url('/images/LP_bg.png');
+  background-image: url('../images/LP_bg.png');
 }
